@@ -7,6 +7,6 @@ qualifications<br />
     a handful of gcses and a-levels
     two thirds of a cs degree
 
-projects<br /><br />  
+<br />projects<br /><br />  
 
 [[TDEE Calculator](https://elibretto.github.io/TDEE)]<br />
