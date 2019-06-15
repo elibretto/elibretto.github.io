@@ -1,12 +1,12 @@
-eli libretto (@elibretto)<br />
+eli libretto (@elibretto)<br /><br />  
 
 [[github](https://github.com/elibretto)]<br />
-[[twitter](https://twitter.com/nbabretto)]<br />
+[[twitter](https://twitter.com/nbabretto)]<br /><br />  
 
 qualifications<br />
     a handful of gcses and a-levels
     two thirds of a cs degree
-<br />  
-projects<br />
+
+projects<br /><br />  
 
 [[TDEE Calculator](https://elibretto.github.io/TDEE)]<br />
